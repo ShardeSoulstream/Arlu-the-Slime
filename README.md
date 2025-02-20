@@ -4,7 +4,7 @@ I am just here to share a project im working on for those interested.
 ## Controls
 WASD - move</br>
 Shift - drop</br>
-Hold Space + WASD - interact (not implemented)</br>
+Hold Space + WASD - interact</br>
 Hold Space + Shift - eat
 </br>
 ## Contact
